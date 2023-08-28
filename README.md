@@ -1,4 +1,7 @@
-# Conversor
+<h1 align="center">Conversor de unidades</h1>
+<p align="center">
+    <img src="https://img.shields.io/badge/java-20.0-c55e00" alt="Java version">
+</p>
 
 ¡Mi proyecto para convertir unidades como temperatura, informacion, peso, distancia y divisas!
 
@@ -11,7 +14,8 @@ Diseñado como una herramienta versátil y fácil de usar diseñada para simplif
 - Lenguaje de Programación: **Java**
 - Intefaz Grafica: **Java Swing**
 
-## Imagenes
+## Screenshots
+
 Lo que buscaba con el diseño de la aplicacion es un diseño simple y minimalista, ademas de una interfaz de facil uso.
 
 _Screenshot de la interfaz inicial_
